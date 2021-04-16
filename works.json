@@ -57,6 +57,12 @@
     },
     {
         "type"        : "work",
+        "link"        : "https://drive.google.com/file/d/1LQU5OIM8KzuiTZXgRSgp0T8P8UTr6Won/view?usp=sharing&export=download",
+        "name"        : "Hello 960E",
+        "explanation" : "蜊ｰ蛻ｷ繝溘せ縺ｧ豐｡縺ｫ縺ｪ縺｣縺滉ｼ∫判譖ｸ"
+    },
+    {
+        "type"        : "work",
         "link"        : "https://youtu.be/YN3R94GwQEY",
         "name"        : "My Favorite Touhou Vocal Best 50",
         "explanation" : "個人的に好きな東方ヴォーカルを纏めた動画"
