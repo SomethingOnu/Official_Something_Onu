@@ -6,7 +6,7 @@ const onLoad = async () => {
     for (let i = 0; i <= 4; i++) {
         const div = document.createElement('div');
 
-        const date  = document.createElement('div');
+        const date = document.createElement('div');
         date.className = "date";
         date.innerHTML = notice_data[i].date;
 
@@ -30,7 +30,7 @@ const onLoad = async () => {
         };
 
         if (work_data[i].type === "work") {
-            const has_link  = !!work_data[i].link;
+            const has_link = !!work_data[i].link;
 
             const work = document.createElement('div');
             work.className = "work";
