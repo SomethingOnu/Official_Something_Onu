@@ -67,11 +67,12 @@ main > div {
     height: auto;
     margin-bottom: 6px;
 }
-#profile-1 > div {
+#profile-1 > div,
+#profile-1 > a {
     margin: 4px 8px;
     transition: 250ms;
 }
-#profile-1 > div > img {
+#profile-1 > a > img {
     width: 64px;
     height: 64px;
     border-radius: 2px;
