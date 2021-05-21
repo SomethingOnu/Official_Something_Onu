@@ -97,6 +97,12 @@
         "name"        : "Touhou + Something",
         "explanation" : "東方キャラと小物を描いたイラスト"
     },
+    {
+        "type"        : "work",
+        "link"        : "https://drive.google.com/file/d/1ptLncAkoLIpulneFQ6zOhcCX70uhtfCW/view?usp=sharing&export=download",
+        "name"        : "The Lost Hometown",
+        "explanation" : "高山に囲まれた木造の街が舞台となるMinecraftワールド"
+    },
 
     {
         "type"        : "category",
