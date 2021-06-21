@@ -69,6 +69,12 @@
     },
     {
         "type"        : "work",
+        "link"        : "https://drive.google.com/file/d/1eDbzprlXT9vgRpOFn9gmMR75_CfYIL2y/view?usp=sharing&export=download",
+        "name"        : "Unknown Graffiti",
+        "explanation" : "ラクガキを纏めただけの個人的なドキュメントファイル"
+    },
+    {
+        "type"        : "work",
         "link"        : "https://youtu.be/YN3R94GwQEY",
         "name"        : "My Favorite Touhou Vocal Best 50",
         "explanation" : "個人的に好きな東方ヴォーカルを纏めた動画"
