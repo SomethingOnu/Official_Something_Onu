@@ -1,0 +1,138 @@
+#terminal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: calc(100% - 12px);
+    height: calc(100% - 12px);
+    padding: 6px;
+    font-family: 'Courier Prime', monospace;
+    opacity: 1;
+    transition: 1s;
+}
+#terminal.hide {
+    left: -100%;
+    opacity: 0;
+    transition: 1s;
+}
+#terminal > .red {
+    font-weight: 700;
+    color: var(--red);
+}
+
+#home {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: calc(100% - 12px);
+    height: calc(100% - 12px);
+    padding: 6px;
+    opacity: 1;
+    transition: 1s;
+}
+#home.hide {
+    left: 100%;
+    opacity: 0;
+    transition: 1s;
+}
+
+#brand {
+    margin: 16px 0 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#brand > .flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#brand > .flex > img {
+    width: 80px;
+    height: 80px;
+    margin-right: 8px;
+}
+#brand > .flex > .ja {
+    font-weight: 100;
+    font-size: 24px;
+}
+#brand > .flex > .en {
+    font-weight: 100;
+    font-size: 16px;
+    margin-bottom: 2px;
+    letter-spacing: 2px;
+}
+
+#hello {
+    margin: 4px;
+    margin-bottom: 12px;
+}
+
+#notice {
+    margin: 4px;
+    margin-bottom: 12px;
+}
+#notice > div {
+    display: flex;
+    justify-content: left;
+    align-items: top;
+    padding: 4px 0;
+    transition: 250ms;
+}
+#notice > div > .date {
+    margin: 2px 0;
+    padding-right: 8px;
+    font-weight: 100;
+    font-size: 14px;
+    border-right: double 6px var(--white);
+}
+#notice > div > .news {
+    padding-left: 8px;
+}
+
+#contents > .work {
+    position: relative;
+    display: flex;
+    margin: 8px 4px;
+    padding: 4px;
+    border-radius: 2px;
+    border: solid 1px transparent;
+    transition: 250ms;
+}
+#contents > .work:hover {
+    border: solid 1px var(--white);
+    transition: 250ms;
+}
+#contents > .work a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+#contents > .work > div {
+    margin: 4px;
+}
+#contents > .work > div > img {
+    width: 80px;
+    height: 80px;
+    border-radius: 2px;
+    filter: grayscale(100%);
+    transition: 250ms;
+}
+#contents > .work:hover > div > img {
+    filter: grayscale(0%);
+    transition: 250ms;
+}
+#contents > .work > div > .name {
+    font-weight: 500;
+    font-size: 20px;
+}
+#contents > .work > div > .explanation {
+    font-weight: 100;
+    font-size: 14px;
+}
+#contents > .work > .wip > .name,
+#contents > .work > .wip > .explanation {
+    color: var(--gray);
+}

@@ -1,0 +1,22 @@
+#window-content .category {
+    display: flex;
+    justify-content: space-between;
+    width: calc(100% - 8px);
+    margin: 0 4px;
+    font-weight: 500;
+    font-size: 12px;
+    color: var(--gray);
+    border-bottom: solid 1px var(--gray);
+}
+#window-content .category > a {
+    padding: 0 8px;
+    color: var(--white);
+    background-color: var(--gray);
+    transition: 0.25s;
+}
+#window-content .category > a:hover {
+    padding: 0 8px;
+    color: var(--gray);
+    background-color: var(--white);
+    transition: 0.25s;
+}

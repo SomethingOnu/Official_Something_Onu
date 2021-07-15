@@ -1,0 +1,116 @@
+[
+    {
+        "type"        : "category",
+        "category"    : "Contact"
+    },
+    {
+        "type"        : "link",
+        "link"        : "mailto:rogatelice@protonmail.com",
+        "icon"        : "fas fa-envelope",
+        "name"        : "Mail",
+        "comment"     : ""
+    },
+    {
+        "type"        : "link",
+        "link"        : "https://discord.com/users/784773582550728745",
+        "icon"        : "fab fa-discord",
+        "name"        : "Discord",
+        "comment"     : ""
+    },
+    {
+        "type"        : "category",
+        "category"    : "Social Media"
+    },
+    {
+        "type"        : "link",
+        "link"        : "https://twitter.com/SomethingOnu",
+        "icon"        : "fab fa-twitter",
+        "name"        : "Twitter",
+        "comment"     : ""
+    },
+    {
+        "type"        : "link",
+        "link"        : "https://don.nzws.me/web/accounts/106317548061662132",
+        "icon"        : "fab fa-mastodon",
+        "name"        : "Mastodon",
+        "comment"     : ""
+    },
+    {
+        "type"        : "link",
+        "link"        : "https://www.youtube.com/channel/UC464uXof2ms92PtIWz6yIAg",
+        "icon"        : "fab fa-youtube",
+        "name"        : "YouTube",
+        "comment"     : ""
+    },
+    {
+        "type"        : "link",
+        "link"        : "https://github.com/SomethingOnu",
+        "icon"        : "fab fa-github",
+        "name"        : "GitHub",
+        "comment"     : ""
+    },
+    {
+        "type"        : "link",
+        "link"        : "https://www.pixiv.net/users/63404396",
+        "icon"        : "fas fa-paint-brush",
+        "name"        : "Pixiv",
+        "comment"     : ""
+    },
+    {
+        "type"        : "link",
+        "link"        : "https://somethingonu.booth.pm",
+        "icon"        : "fas fa-store",
+        "name"        : "Booth",
+        "comment"     : ""
+    },
+    {
+        "type"        : "link",
+        "link"        : "https://skima.jp/profile?id=179779",
+        "icon"        : "fas fa-store",
+        "name"        : "SKIMA",
+        "comment"     : ""
+    },
+    {
+        "type"        : "category",
+        "category"    : "Game"
+    },
+    {
+        "type"        : "link",
+        "link"        : "https://steamcommunity.com/id/somethingonu",
+        "icon"        : "fab fa-steam",
+        "name"        : "Steam",
+        "comment"     : ""
+    },
+    {
+        "type"        : "link",
+        "link"        : "",
+        "icon"        : "fas fa-gamepad",
+        "name"        : "Electronic Arts",
+        "comment"     : ""
+    },
+    {
+        "type"        : "link",
+        "link"        : "",
+        "icon"        : "fas fa-gamepad",
+        "name"        : "Epic Games",
+        "comment"     : ""
+    },
+    {
+        "type"        : "category",
+        "category"    : "Donate"
+    },
+    {
+        "type"        : "link",
+        "link"        : "https://www.amazon.jp/hz/wishlist/ls/1RSKN9E87ZJLI?ref_=wl_share",
+        "icon"        : "fab fa-amazon",
+        "name"        : "Amazon",
+        "comment"     : ""
+    },
+    {
+        "type"        : "link",
+        "link"        : "https://kyash.vercel.app/?id=osuke&link=4255962729992799283",
+        "icon"        : "fas fa-credit-card",
+        "name"        : "Kyash",
+        "comment"     : "Thanks to nzws : kyash.vercel.app"
+    }
+]
