@@ -72,22 +72,27 @@
     margin: 4px;
     margin-bottom: 12px;
 }
-#notice > div {
+#notice > .content {
     display: flex;
     justify-content: left;
     align-items: top;
-    padding: 4px 0;
+    padding: 4px;
+    border: solid 1px transparent;
     transition: 250ms;
 }
-#notice > div > .date {
+#notice > .content > .date {
     margin: 2px 0;
     padding-right: 8px;
     font-weight: 100;
     font-size: 14px;
     border-right: double 6px var(--white);
 }
-#notice > div > .news {
+#notice > .content > .news {
     padding-left: 8px;
+}
+#notice > .link:hover {
+    border: solid 1px var(--white);
+    transition: 250ms;
 }
 
 #contents > .work {

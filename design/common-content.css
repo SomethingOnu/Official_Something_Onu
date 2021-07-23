@@ -8,13 +8,22 @@
     color: var(--gray);
     border-bottom: solid 1px var(--gray);
 }
-#window-content .category > a {
+#window-content .category > div > .button {
+    user-select: none;
+    display: inline-block;
+    margin: 0 4px;
     padding: 0 8px;
     color: var(--white);
     background-color: var(--gray);
     transition: 0.25s;
 }
-#window-content .category > a:hover {
+#window-content .category > div > .button:first-of-type {
+    margin-left: 0;
+}
+#window-content .category > div > .button:last-of-type {
+    margin-right: 0;
+}
+#window-content .category > div > .button:hover {
     padding: 0 8px;
     color: var(--gray);
     background-color: var(--white);
