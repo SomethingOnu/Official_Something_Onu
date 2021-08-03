@@ -1,5 +1,25 @@
 [
     {
+        "date" : "2021/08/03",
+        "news" : "吹き出しカーソル君 を公開",
+        "link" : "https://github.com/SomethingOnu/HukidashiCursor"
+    },
+    {
+        "date" : "2021/07/29",
+        "news" : "Zodiac Network を Skald World に改名 (復活)",
+        "link" : "https://skaldworld.0nu.be/"
+    },
+    {
+        "date" : "2021/07/28",
+        "news" : "To Seek The Truth を公開",
+        "link" : "https://github.com/SomethingOnu/ToSeekTheTruth"
+    },
+    {
+        "date" : "2021/07/28",
+        "news" : "MathJax簡単入力ツール を公開",
+        "link" : "https://mjh.0nu.be/"
+    },
+    {
         "date" : "2021/07/24",
         "news" : "おぬ的な気まぐれブログ No.0020 を追加",
         "link" : "https://blog.0nu.be/content/0020.html"
